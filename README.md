@@ -1,23 +1,20 @@
 <h1 align="center">Hi 👋, I'm Pandurang Mopgar</h1>
 <h3 align="center">A passionate Machine learning engineer from India</h3>
 
-- 🔭 I’m currently working on [EnterPrice-Assistant](Check it out here!)
+- 🔭 I’m currently working on EnterPrice-Assistant 
 
 - 🌱 I’m currently learning **React, Next.Js,DSA**
 
-- 👯 I’m looking to collaborate on [A cool AI project](Let's brainstorm)
+- 👯 I’m looking to collaborate on A cool AI project Let's brainstorm
 
-- 🤝 I’m looking for help with [Projects](Calling all ML connoisseurs!)
 
-- 👨‍💻 All of my projects are available at [soon](soon)
 
-- 💬 Ask me about **ML, DL ,Generative Ai**
+- 💬 Ask me about **ML, DL ,Generative AI**
 
 - 📫 How to reach me **pandurangmopgar7410@gmail.com**
 
 - 📄 Know about my experiences [soon](soon)
 
-- ⚡ Fun fact **I Think AI IS AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
