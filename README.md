@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pandurang Mopgar</h1>
-<h3 align="center">A passionate Machine learning engineer </h3>
+<h3 align="center">A passionate AI learning engineer </h3>
 
-- 🔭 I’m currently working  on Omnihealth
+- 🔭 I’m currently working  on Memorystack
 
-- 🌱 I’m currently learning **React, Next.Js,DSA**
+
 
 - 👯 I’m looking to collaborate on A cool AI project Let's brainstorm
 
