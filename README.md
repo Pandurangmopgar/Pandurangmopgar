@@ -4,18 +4,6 @@
 - 🔭 I’m currently working  on Memorystack
 
 
-
-- 👯 I’m looking to collaborate on A cool AI project Let's brainstorm
-
-
-
-- 💬 Ask me about **ML, DL ,Generative AI**
-
-- 📫 How to reach me **pandurangmopgar7410@gmail.com**
-
-- 📄 Know about my experiences [soon](soon)
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/pandurang-mopgar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/pandurang-mopgar/" height="30" width="40" /></a>
